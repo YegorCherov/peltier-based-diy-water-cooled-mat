@@ -70,8 +70,6 @@ on the outside.
 The coolant is an 85/15 mix of distilled water and automotive glycol to
 prevent mineral deposits, corrosion and biological growth in the closed loop.
 
-The mat connected and running.
-
 ![Final setup](images/final_mat.jpeg)
 
 ![Final setup](images/final_mat2.jpeg)
