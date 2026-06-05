@@ -66,7 +66,7 @@ The coolant is an 85/15 mix of distilled water and automotive glycol to prevent 
 
 ## Wiring
 
-<img src="images/wiring_diagram.png" alt="Wiring diagram" width="300" />
+<img src="images/wiring_diagram.png" alt="Wiring diagram" width="600" />
 
 12V PSU positive rail to BTS7960 power input and to buck converter input. PSU negative to shared ground. Buck converter output 5V to ESP32 VIN, ground to shared ground. BTS7960 RPWM and LPWM to ESP32 GPIO 25 and 26. Fan PWM to ESP32 GPIO 27. Water block on peltier cold side, heatsink and fan on hot side.
 
